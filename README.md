@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Preeti's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreetiW&count_private=true)
+
 <!--
 **PreetiW/PreetiW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
