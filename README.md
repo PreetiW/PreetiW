@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Preeti is a <b>Senior Software Engineer at Red Hat</b> and a programmer at heart, currently spending most of her time working on <b>JavaScript</b>. She has extensive experience working with a range of frontend technologies, including <b>Android, Ionic, Angular, React Native, and React</b>.  Recently, Preeti has been exploring more about UX and how to improve products to provide the best experience for users.
+
+An active member of the <b>developer community</b>, Preeti enjoys <b>organizing meetups and attending conferences</b> to stay up-to-date on the latest trends and technologies in the frontend space. She has a passion for <b>sharing her knowledge and experiences with others through talks and blogs</b>.
+
+When she's not busy writing code, Preeti loves to <b>explore new places, learn new skills, and spend quality time with her family and friends</b>. She is a firm believer in <b>work-life balance</b> and enjoys taking breaks from her work to recharge her batteries and come back stronger.
+
+
 ![](https://github-readme-stats.vercel.app/api?username=PreetiW&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PreetiW&theme=radical&hide_border=false)
 
